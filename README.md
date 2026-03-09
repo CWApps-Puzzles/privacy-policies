@@ -17,4 +17,4 @@ Each app has its own folder containing a standalone HTML file to meet platform c
 
 - These files are referenced in GDPR/CCPA consent flows (e.g., UMP SDK)
 - All files follow platform content rules and are safe to host via GitHub Pages
-- Repo maintained by **Chris231262**
+- Repo maintained by **CWApps-Puzzles**
