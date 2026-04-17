@@ -1,6 +1,6 @@
-# AppForge Privacy Policies
+# CW Apps Privacy Policies
 
-This repository hosts public privacy policies for apps developed under the AppForge Studio brand.
+This repository hosts public privacy policies for apps developed under the CW Apps Studio brand.
 
 Each app has its own folder containing a standalone HTML file to meet platform compliance (e.g., Google Play / AdMob).
 
